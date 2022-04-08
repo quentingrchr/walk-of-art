@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/quentingrchr/walk-of-art-front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/quentingrchr/walk-of-art-back.git
